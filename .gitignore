@@ -1,0 +1,15 @@
+# Ignorar archivos temporales
+*.tmp
+temp/*
+
+# Ignoramos archivos de configuración específicos del entorno
+.env
+config.local.json
+
+# Ignoramos carpetas de datos grandes o generados
+data/
+logs/
+
+# ignoramos IDES
+.idea/
+.vscode/
