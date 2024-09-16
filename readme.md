@@ -60,10 +60,7 @@ Se encontró una asociación estadísticamente significativa entre la edad y la 
 Si tienes alguna pregunta o sugerencia, no dudes en contactar a [Anton Barrera en mi correo](hi@anbar.top), por Github o en mis redes sociales.
 
 
-###########################################################
-
-A continuación, se muestra la traducción del contenido del `README.md` al inglés y al japonés, manteniendo el formato Markdown.
-
+--------------------------------------------------------------------------------------
 
 
 # Predicting Autism in Adults with Machine Learning
@@ -129,6 +126,8 @@ This project explores the use of machine learning techniques to predict the risk
 ## Contact
 If you have any questions or suggestions, do not hesitate to contact [Anton Barrera via email](hi@anbar.top), on Github, or through my social media.
 
+
+----------------------------------------------------------------------------------------------
 
 
 # 大人における自閉症の予測 - 機械学習を用いたアプローチ
