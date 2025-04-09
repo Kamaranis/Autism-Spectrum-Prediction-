@@ -13,3 +13,9 @@ logs/
 # ignoramos IDES
 .idea/
 .vscode/
+
+# Ignoramos archivos de salida de compilación
+.editorconfig/
+*.class
+*.exe
+*.o
