@@ -15,7 +15,7 @@ logs/
 .vscode/
 
 # Ignoramos archivos de salida de compilación
-*.editorconfig/
+*.editorconfig
 *.class
 *.exe
 *.o
